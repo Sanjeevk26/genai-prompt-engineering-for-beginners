@@ -317,22 +317,6 @@ This architecture is the foundation behind modern large language models.
 
 ---
 
-# Mini Exercise
-
-1. What does **GPT** stand for?
-
-2. Why are **embeddings** necessary in AI models?
-
-3. What is the purpose of **self-attention**?
-
-4. Why do transformers work better for text than earlier neural networks?
-
----
-
-# Learning Reminder
-
-**Information Alert**
-
 Schedule your learning time.
 
 Learning a little every day builds strong understanding over time. Research shows that students who make learning a habit are much more likely to reach their goals.
